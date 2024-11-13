@@ -14,7 +14,7 @@
         "fruitcake/laravel-cors": "^1.0",
         "guzzlehttp/guzzle": "^7.0.1",
         "jenssegers/agent": "^2.6",
-        "laravel/framework": "8.83.7",
+        "laravel/framework": "8.83.28",
         "laravel/socialite": "^5.5",
         "laravel/tinker": "^2.0",
         "paypal/paypal-checkout-sdk": "^1.0",
